@@ -18,3 +18,21 @@ Projects should fit these criteria:
 - You're not obliged to invite all the members of the coop to your project
 - Only members of the coop can propose projects and you should be involved in some way.
   - Don't pitch ideas of your friends, people you met on a bus, etc.
+
+## Submitting a Proposal
+
+Create a document somewhere online (please don't use Google Docs), we like https://pad.systemli.org/ as a good, privacy friendly option.
+
+In that document, clearly share the following information:
+
+- Dates of the project
+- Location of the venue
+  - Maybe include a link to the rental web site (airbnb, etc)
+- Cost of the whole project
+- How much money you want the coop to provide
+- Will you (or another organiser) be paid, and if so, how much
+- Your plan to cover the costs, including toipcs like:
+  - Will people join for the whole time, or will some people join for part
+  - How much will each person pay, is that per week, for the whole time, etc
+  - Who will you invite, how will you invite them, and so on
+  - When will people pay
