@@ -31,7 +31,7 @@ In that document, clearly share the following information:
 - Cost of the whole project
 - How much money you want the coop to provide
 - Will you (or another organiser) be paid, and if so, how much
-- Your plan to cover the costs, including toipcs like:
+- Your plan to cover the costs, including topics like:
   - Will people join for the whole time, or will some people join for part
   - How much will each person pay, is that per week, for the whole time, etc
   - Who will you invite, how will you invite them, and so on
