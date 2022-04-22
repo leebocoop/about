@@ -2,6 +2,8 @@
 
 We're a group of friends who want to organise and support more shared living projects. This is a cooperative, non profit mission.
 
+We're using [a group on elinor](https://app.elinor.network/groups/a5901da5-c23e-11ec-9614-960000e2102b) to manage funds and vote on proposals.
+
 Projects should fit these criteria:
 
 - Minimum of 2 weeks
